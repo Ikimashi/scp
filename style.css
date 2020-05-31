@@ -72,3 +72,8 @@
 	border: 1.5px black dotted;
 	background-color: rgba(224, 224, 224, 0.5);
 }
+.mp {
+	border: 1px solid red;
+	width: 100px;
+	height: 100px;
+}
